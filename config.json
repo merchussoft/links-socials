@@ -1,0 +1,34 @@
+{
+    "links": [
+        {
+            "title": "Instagram", 
+            "url":"https://www.instagram.com/soymerchux", 
+            "icono": "https://ugc.production.linktr.ee/3bcff3b8-275c-4aa8-baae-7eb21ae71534_1000004826.png?io=true&size=thumbnail-stack-v1_0"
+        },
+        {
+            "title": "Twitch", 
+            "url":"https://www.twitch.tv/soymerchux", 
+            "icono": "https://ugc.production.linktr.ee/92420983-068e-4ffa-af83-21500df4ed27_1000004177.png?io=true&size=thumbnail-stack-v1_0"
+        },
+        {
+            "title": "X", 
+            "url":"https://x.com/soymerchux", 
+            "icono": "https://ugc.production.linktr.ee/3eda93e6-70cf-4cb4-a20a-7413bfa69a03_1000004829.png?io=true&size=thumbnail-stack-v1_0"
+        },
+        {
+            "title": "Kick", 
+            "url":"https://kick.com/soymerchux", 
+            "icono": "https://ugc.production.linktr.ee/3a260b26-2ae5-4a50-921b-38a3aabe473e_1000004166.png?io=true&size=thumbnail-stack-v1_0"
+        },
+        {
+            "title": "Discord", 
+            "url":"https://discord.gg/UTsBeFnp7u", 
+            "icono": "https://ugc.production.linktr.ee/bc5b39b0-dcdc-460b-b457-0a5f75ec4fd7_1000004830.png?io=true&size=thumbnail-stack-v1_0"
+        },
+        {
+            "title": "Facebook", 
+            "url":"https://www.facebook.com/fpsoymerchux", 
+            "icono": "https://ugc.production.linktr.ee/2471a12c-0d0e-4101-a1af-c52c43f6a567_1000004828.png?io=true&size=thumbnail-stack-v1_0"
+        }
+    ]
+}
